@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nulledrin
+- 👋 Hi, I’m @nulledrin, lazy cyberporn analyst
 - 👀 I’m interested in cybersecurity, malware analysis actually
 - 🌱 I’m currently learning reverse engineering and binary exploitation
 - 💞️ I’m looking to collaborate on people know what ones want and do
